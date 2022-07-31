@@ -3,8 +3,8 @@
     "username": "test",
     "password": "pass"
   },
-  "cars": {
-    "car_1": {
+  "cars": [
+    {
       "id": 1,
       "brand": "HONDA",
       "model": "2000",
@@ -13,7 +13,7 @@
       "state": "USED",
       "isVisible": true
     },
-    "car_2": {
+    {
       "id": 2,
       "brand": "KIA",
       "model": "2002`",
@@ -22,7 +22,7 @@
       "state": "NEW",
       "isVisible": true
     },
-    "car_3": {
+    {
       "id": 3,
       "brand": "BMW",
       "model": "2004",
@@ -31,7 +31,7 @@
       "state": "NEW",
       "isVisible": true
     },
-    "car_4": {
+    {
       "id": 4,
       "brand": "MERCEDES",
       "model": "2006",
@@ -40,7 +40,7 @@
       "state": "USED",
       "isVisible": false
     },
-    "car_5": {
+    {
       "id": 5,
       "brand": "NISSAN",
       "model": "2008",
@@ -49,7 +49,7 @@
       "state": "USED",
       "isVisible": true
     },
-    "car_6": {
+    {
       "id": 6,
       "brand": "RENAULT",
       "model": "2010",
@@ -58,5 +58,5 @@
       "state": "NEW",
       "isVisible": false
     }
-  }
+  ]
 }
