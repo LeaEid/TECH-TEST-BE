@@ -1,0 +1,22 @@
+{
+  "name": "tech-test-be",
+  "version": "1.0.0",
+  "description": "technical test backend - NodeJs(Express)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeaEid/TECH-TEST-BE.git"
+  },
+  "author": "LE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeaEid/TECH-TEST-BE/issues"
+  },
+  "homepage": "https://github.com/LeaEid/TECH-TEST-BE#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

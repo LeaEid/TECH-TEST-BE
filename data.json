@@ -1,0 +1,62 @@
+{
+  "user": {
+    "username": "test",
+    "password": "pass"
+  },
+  "cars": {
+    "car_1": {
+      "id": 1,
+      "brand": "HONDA",
+      "model": "2000",
+      "shipDate": "01-02-2022",
+      "color": "white",
+      "state": "USED",
+      "isVisible": true
+    },
+    "car_2": {
+      "id": 2,
+      "brand": "KIA",
+      "model": "2002`",
+      "shipDate": "02-03-2022",
+      "color": "black",
+      "state": "NEW",
+      "isVisible": true
+    },
+    "car_3": {
+      "id": 3,
+      "brand": "BMW",
+      "model": "2004",
+      "shipDate": "03-04-2022",
+      "color": "yellow",
+      "state": "NEW",
+      "isVisible": true
+    },
+    "car_4": {
+      "id": 4,
+      "brand": "MERCEDES",
+      "model": "2006",
+      "shipDate": "04-05-2022",
+      "color": "blue",
+      "state": "USED",
+      "isVisible": false
+    },
+    "car_5": {
+      "id": 5,
+      "brand": "NISSAN",
+      "model": "2008",
+      "shipDate": "06-07-2022",
+      "color": "grey",
+      "state": "USED",
+      "isVisible": true
+    },
+    "car_6": {
+      "id": 6,
+      "brand": "RENAULT",
+      "model": "2010",
+      "shipDate": "07-08-2022",
+      "color": "red",
+      "state": "NEW",
+      "isVisible": false
+    }
+  }
+}
